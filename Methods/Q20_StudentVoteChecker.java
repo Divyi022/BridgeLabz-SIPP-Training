@@ -9,7 +9,7 @@ public class Q20_StudentVoteChecker {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] ages = new int[10];
-        Q21_StudentVoteChecker svc = new Q21_StudentVoteChecker();
+        Q20_StudentVoteChecker svc = new Q20_StudentVoteChecker();
 
         for (int i = 0; i < 10; i++) {
             System.out.print("Enter age of student " + (i + 1) + ": ");
